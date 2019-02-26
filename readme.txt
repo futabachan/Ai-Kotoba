@@ -1,7 +1,7 @@
 === Ai Kotoba ===
 Contributors: imouto
 Tags: hello dolly, lyrics, admin, ai kotoba
-Donate link: https://www.futaba.love/donate/
+Donate link: https://futaba.love/about/
 Requires at least: 5.0.3
 Tested up to: 5.0.3
 Requires PHP: 5.4.16
